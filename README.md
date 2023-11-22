@@ -38,6 +38,6 @@ This will launch the front-end of the three-phase authentication system. Open yo
 Ensure that you have Metamask or a similar Ethereum wallet extension installed to interact with the deployed smart contracts. Feel free to customize the code and explore the functionalities of the authentication system.
 ## Author
 
-- ursprash
+- uttam
 
 Feel free to modify and expand upon this README to include additional information or context specific to your project.
